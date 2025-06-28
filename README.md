@@ -1,1 +1,2 @@
-# My-Projects
+# Employee Management System
+This C-based mini project is a simple Employee Management System that allows users to add, remove, and view employee records. The program uses file handling to store data persistently in a binary file. It features a console-based interface and helps manage employee details like ID, name, age, address, department, and salary. Ideal for beginners to understand basic file operations and structures in C.
